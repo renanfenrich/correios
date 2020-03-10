@@ -1,5 +1,5 @@
 {
-	"name": "bubbstore/correios",
+	"name": "renanfenrich/correios",
 	"type": "library",
 	"description": "Biblioteca que faz cálculo de frete, rastreamento de objetos e consulta de CEP diretamente do Webservice dos Correios.",
 	"keywords": [
